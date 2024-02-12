@@ -1,15 +1,18 @@
-- 👋 Hi, I’m @tina96pham
+### Hi 👋 
+My name is Tina. 
+
+
+<!---
+tina96pham/tina96pham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-tina96pham/tina96pham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
+### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tina96pham)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tina96pham)](https://github.com/anuraghazra/github-readme-stats)
