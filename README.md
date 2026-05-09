@@ -14,6 +14,15 @@
 <h3 align="left">Technical Ecosystem:</h3>
 
 #### 🛠 Backend & Database
+[![Backend Skills](https://skillicons.dev/icons?i=fastapi,flask,py,sqlalchemy,postgres,mssql,mongodb)](https://skillicons.dev)
+
+#### 💻 Frontend & Design
+[![Frontend Skills](https://skillicons.dev/icons?i=angular,ts,react,js,tailwind,sass,figma)](https://skillicons.dev)
+
+#### ☁️ Cloud & Tooling
+[![Tooling Skills](https://skillicons.dev/icons?i=aws,gcp,git,linux,postman,docker,github)](https://skillicons.dev)
+
+#### 🛠 Backend & Database
 <p align="left">
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a><span>&nbsp;</span>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a><span>&nbsp;</span>
