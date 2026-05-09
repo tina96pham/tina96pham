@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Tina</h1>
 
-<h3 align="left">Senior Full-Stack Engineer dedicated to architectural longevity and scalable system design.</h3>
+<h3 align="left"> Full-Stack Engineer dedicated to architectural longevity and scalable system design.</h3>
 
 - 🔭 **Currently focused on:** Migrating monolithic architectures to microservices and optimizing asynchronous data patterns.
 - 🌱 **Learning:** Deep diving into Cloud-native design patterns and advanced DevOps to bolster system reliability.
