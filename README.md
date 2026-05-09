@@ -46,6 +46,7 @@
 
 ### Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tina96pham&show_icons=true&theme=radical&hide_border=false" alt="Tina's GitHub Stats" height="170" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=tina96pham&show_icons=true&theme=radical&hide_border=false" alt="Tina's GitHub Stats" height="170" /> -->
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tina96pham&show_icons=true&locale=en" alt="tina96pham" /></p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tina96pham&theme=radical&hide_border=false" alt="Tina's Streak Stats" height="170" />
 </p>
